@@ -1,6 +1,3 @@
-User-agent: Shuaibot
-Allow: /*
-
 User-agent: Twitterbot
 Allow: /*
 
